@@ -10,4 +10,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cmjt&repo=ggdesin&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/cmjt) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cmjonestodd)
