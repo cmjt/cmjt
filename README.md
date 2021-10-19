@@ -11,10 +11,10 @@
 
 
 
-## Teaching @ UoA
+## Current teaching @ UoA
 
 - [BIOSCI 220: Quantitative Biology](https://stats-uoa.github.io/BIOSCI220/)
-- [BIOSCI 738 : Advanced Biological Data Analysis](https://stats-uoa.github.io/BIOSCI738/)
+- [BIOSCI 738: Advanced Biological Data Analysis](https://stats-uoa.github.io/BIOSCI738/)
 
 All teaching materials © University of Auckland unless explicitly stated otherwise. Distrubution without prior written permission is prohibited. 
 
