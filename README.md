@@ -18,9 +18,9 @@
 
 All teaching materials © University of Auckland unless explicitly stated otherwise. Distrubution without prior written permission is prohibited. 
 
-## Statbiscuits [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/statbiscuit) 
+## Statbiscuit [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/statbiscuit) 
 
-[<img alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="5%"/>](https://github.com/cmjt/statbiscuits)
+[<img alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="5%"/>](https://github.com//statbiscuit)
 
 ### Selection of `RShiny` applications
 
